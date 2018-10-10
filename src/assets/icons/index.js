@@ -1,0 +1,9 @@
+export const treinos = require("./treinos.png");
+export const treinosOutline = require("./treinos-outline.png");
+export const perfil = require("./perfil.png");
+export const perfilOutline = require("./perfil-outline.png");
+export const exercicios = require("./exercicios.png");
+export const exerciciosOutline = require("./exercicios-outline.png");
+export const agenda = require("./agenda.png");
+export const agendaOutline = require("./agenda-outline.png");
+export const plus = require("./plus.png");
